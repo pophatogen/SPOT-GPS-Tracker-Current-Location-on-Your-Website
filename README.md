@@ -1,5 +1,5 @@
 
-features
+features are here
 --------
 spotparse.py does the following:
  * saves current latitude,longitude to a file
@@ -21,13 +21,13 @@ Options:
   --map-zoom=MAP_ZOOM   zoom level for map
 ```
 
-basic usage
+basic usage are here
 -----------
 Edit the file, to add your spot_id and file paths, then:
 
 Just run `spotparse.py -k -m >/dev/null` from cron (every 15 minutes at most), and it will generate a map.
 
-background
+background are here 
 ----------
 If you subscribe to the Track Progress service with SPOT, you can tell the GPS device to send your location to SPOT via satellite every 10 minutes, and then export those tracks at a later time.
 
@@ -37,7 +37,7 @@ Itâ€™s not a problem if you export your data to Spot Adventures and create an â€
 
 I guess you need to cache the last used location yourself.
 
-spotparse.py
+spotparse.py.lol56
 ------------
 New hotness. Works very well.
 
